@@ -52,6 +52,7 @@ hour          0
 day of month  1 15
 month         1 2 3 4 5 6 7 8 9 10 11 12
 day of week   1 2 3 4 5
+
 command       /usr/bin/find
 ```
 
@@ -60,7 +61,10 @@ command       /usr/bin/find
 The test suite includes 20 comprehensive test cases covering valid and invalid scenarios.
 
 ```bash
+
 node cronParser.test.js
 ```
 
 ##  Screenshots
+
+<img width="495" height="707" alt="Screenshot 2025-11-07 at 17 26 02" src="https://github.com/user-attachments/assets/2ad6b0de-b8cb-4c4a-a33c-56bfad0dd72a" />
