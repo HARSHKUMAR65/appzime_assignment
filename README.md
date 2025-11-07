@@ -6,7 +6,7 @@ A command-line application that parses a cron string and expands each field to s
 
 ## Features
 
--Parses standard 5-field cron expressions
+- Parses standard 5-field cron expressions
 - Supports wildcards (`*`)
 -  Supports ranges (`1-5`)
 -  Supports step values (`*/15`, `1-30/5`)
