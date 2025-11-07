@@ -7,14 +7,14 @@ A command-line application that parses a cron string and expands each field to s
 ## Features
 
 - Parses standard 5-field cron expressions
-- Supports wildcards (`*`)
--  Supports ranges (`1-5`)
--  Supports step values (`*/15`, `1-30/5`)
--  Supports comma-separated lists (`1,15,30`)
--  Supports complex combinations (`1-5,10,20-25`)
--  Validates all fields with proper error messages
--  Handles commands with spaces
--  Formatted table output
+- Supports wildcards (`*`)
+- Supports ranges (`1-5`)
+- Supports step values (`*/15`, `1-30/5`)
+- Supports comma-separated lists (`1,15,30`)
+- Supports complex combinations (`1-5,10,20-25`)
+- Validates all fields with proper error messages
+- Handles commands with spaces
+- Formatted table output
 
 ## Tech Stack
 
