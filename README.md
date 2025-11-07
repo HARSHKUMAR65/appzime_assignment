@@ -16,7 +16,7 @@ A command-line application that parses a cron string and expands each field to s
 -  Handles commands with spaces
 -  Formatted table output
 
-## =� Tech Stack
+## Tech Stack
 
 - **Language**: JavaScript (Node.js)
 - **Runtime**: Node.js (v18)
